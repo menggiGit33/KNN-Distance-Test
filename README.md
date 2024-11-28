@@ -1,4 +1,4 @@
-# This code to compare KNN distance accuracy between Gower and Euclidean
+# KNN distance accuracy between Gower and Euclidean
 Data used for this project from  https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset
 # How to run this code
 - copy this repository to your locals
